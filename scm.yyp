@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "c8651bf1-c51e-4e2e-b6d9-bcf9cad1c24b",
+            "Value": {
+                "id": "01401a0c-5da9-4027-876c-a5b298d48a85",
+                "resourcePath": "objects\\obj_trainwreck\\obj_trainwreck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "bf340f9f-d6e1-4109-93de-587dccac10ca",
