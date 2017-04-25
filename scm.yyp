@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "9e9cf8f0-43f2-45ec-b093-27e60bba6f38",
+            "Value": {
+                "id": "ea031083-97c6-4d55-9b9c-f7e02a398488",
+                "resourcePath": "objects\\asas\\asas.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a7802255-aa9e-4612-b4d4-19a57415922e",
             "Value": {
                 "id": "d631f468-08e0-43a7-ab2e-3163ab0d702e",
